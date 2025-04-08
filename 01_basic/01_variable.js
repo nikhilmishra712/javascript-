@@ -6,3 +6,5 @@ accountCity = "bhopal"
 acccountloc = " narela"
 accountdatee = " 4562"
 console.table([ accountEmail,accountId,accountpassword,acccountloc,accountCity])
+console.log( nikhil);
+let no = "5";
